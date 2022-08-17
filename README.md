@@ -1,6 +1,6 @@
 ## Hi, I'm William and I'm a full stack developer! I can and love to create pages and web applications with enthusiasm and competence. 
 
-I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio and GitHub below to see my skills as a web developer. 
+I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio below to see my skills as a web developer. 
 
 Feel free to contact me for any inquires that you may have or new professional opportunities!
 
