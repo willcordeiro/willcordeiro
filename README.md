@@ -1,8 +1,8 @@
 ## Hi, I'm William and I'm a full stack developer! I can and love to create pages and web applications with enthusiasm and competence.
 
-I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio and GitHub below to see my skills as a web developer. 
+##I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio and GitHub below to see my skills as a web developer. 
 
-Feel free to contact me for any inquires that you may have or new professional opportunities!
+##Feel free to contact me for any inquires that you may have or new professional opportunities!
 <div align="center">
   <a href="https://github.com/willcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
