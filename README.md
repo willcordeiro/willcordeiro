@@ -4,14 +4,7 @@
 
 I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio to see my skills as a web developer. 
 
-Feel free to contact me for any inquires that you may have or new professional opportunities!
- <br> <br> <br> 
-<div align="center" >
-  <a href="https://github.com/willcordeiro">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=willcordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcordeiro&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+
  <br> <br> <br> 
 
 
