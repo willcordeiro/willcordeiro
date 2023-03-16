@@ -8,8 +8,8 @@
 ## Skills
 
 ```
- React, Node.js, nestJS, Javascript, Typescript, Bootstrap
- MySQL, Postgres, React native, solidity
+ React · Node.js · nestJS · Javascript · Typescript · Bootstrap
+ MySQL · Postgres · React native · solidity
 ```
 
 
