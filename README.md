@@ -5,7 +5,7 @@
 
 <h3>I can and love to create pages and web applications with enthusiasm and competence.</h3> 
 
-I'm very eager to learn more as a developer and I'm always ready for a challenge. You can take a look at my projects on my portfolio to see my skills as a web developer. 
+I possess both the ability and enthusiasm to develop web pages and applications with proficiency. As a developer, I'm always eager to enhance my skills and embrace new challenges
 
 ## Skills
 
