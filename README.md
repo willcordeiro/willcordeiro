@@ -3,9 +3,7 @@
 <h1 align="center"> ☄ Hi, I'm William and I'm a full stack developer! 🚀</h1>
 
 
-<h3>I can and love to create pages and web applications with enthusiasm and competence.</h3> 
-
-I possess both the ability and enthusiasm to develop web pages and applications with proficiency. As a developer, I'm always eager to enhance my skills and embrace new challenges
+<h3>I possess both the ability and enthusiasm to develop web pages and applications with proficiency. As a developer, I'm always eager to enhance my skills and embrace new challenges</h3> 
 
 ## Skills
 
